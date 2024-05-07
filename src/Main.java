@@ -20,7 +20,7 @@ public class Main {
         double C = 2.786;
         short D = 569;
         int E = -159;
-        char F = 27897;
+        short F = 27897;
         byte G = 67;
 
         System.out.println("Задача 3 ");
@@ -108,6 +108,6 @@ public class Main {
 
         System.out.println("Маша теперь получает " + mashaSalary + " рублей. Годовой доход вырос на " + mashaIncome + " рублей");
         System.out.println("Денис теперь получает " + denisSalary + " рублей. Годовой доход вырос на " + denisIncome + " рублей!");
-        System.out.println("Кристина теперь получает " + kristinaIncome + " рублей. Годовой доход вырос на " + kristinaIncome + " рублей");
+        System.out.println("Кристина теперь получает " + kristinaSalary + " рублей. Годовой доход вырос на " + kristinaIncome + " рублей");
     }
 }
